@@ -1,7 +1,7 @@
 # CrowdCounting
 基于CSRNet的人群密度估计 PyTorch实现
 
-可以得到将图片或视频的人群密度估计
+可以得到图片或视频的人群密度估计
 
 # 一、环境
 Windows系统
