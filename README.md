@@ -5,6 +5,7 @@
 
 # 一、环境
 Windows系统
+
 python3.8
 - pytorch
 - torchvision
@@ -16,12 +17,12 @@ python3.8
 
 # 二、运行
 
-## 1 命令行运行
+### 1 命令行运行
 查看帮助
 ```
 python main.py -h
 ```
-## 2 图形化界面运行
+### 2 图形化界面运行
 ```
 python window.py
 ```
